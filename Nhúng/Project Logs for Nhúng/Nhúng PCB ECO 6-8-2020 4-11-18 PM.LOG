@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED Pin=LoLin-1-D2
+Change Component Comment : Designator=ledwater Old Comment=LED New Comment=ledwater1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Added Component: Designator=R2(R1/4W)
+Added Pin To Net: NetName=LED Pin=R2-2
+Change Net Name : Old Net Name=LED New Net Name=NetC4_1
+Change Net Name : Old Net Name=Netledwater_1 New Net Name=Net_1
+Added Pin To Net: NetName=LED Pin=LoLin-1-D2
+Added Pin To Net: NetName=LED Pin=R2-1
+Added Net: Name=LED
+Added Member To Class: ClassName=Nhúng Member=Component R3 470
+Added Room: Name=Nhúng

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Netled source1_1 Pin=R1-1
+Removed Pin From Net: NetName=5V Pin=R1-2
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=470
+Added Component: Designator=R2(R1/4W)
+Added Component: Designator=R3(R1/4W)
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=Netled source1_1 Pin=R1-2
+Added Pin To Net: NetName=NetHD1_1 Pin=R2-1
+Added Pin To Net: NetName=LED Pin=R2-2
+Added Pin To Net: NetName=Netled water1_1 Pin=R3-1
+Added Pin To Net: NetName=NetHD1_1 Pin=R3-2
+Added Member To Class: ClassName=Nhúng Member=Component R2 470
+Added Member To Class: ClassName=Nhúng Member=Component R3 470

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=HD1 Old Comment=Header 2 New Comment=water
+Change Component Designator: OldDesignator=LED1 NewDesignator=led source
+Change Component Designator: OldDesignator=LED2 NewDesignator=led water
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=Netled source_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=Netled water_1
+Added Room: Name=Nhúng

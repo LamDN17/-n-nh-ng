@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=5V Pin=R2-1
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Pin From Net: NetName=DECTECT Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=LED Pin=R6-1
+Removed Pin From Net: NetName=Netled water_1 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=HAND Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=NetHD1_1 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=HAND Pin=U1-5
+Removed Pin From Net: NetName=DECTECT Pin=U1-7
+Removed Pin From Net: NetName=5V Pin=U1-8
+Removed Member From Class: ClassName=Nhúng Member=R4
+Removed Member From Class: ClassName=Nhúng Member=R5
+Removed Member From Class: ClassName=Nhúng Member=R6
+Removed Member From Class: ClassName=Nhúng Member=R7
+Removed Member From Class: ClassName=Nhúng Member=R8
+Removed Member From Class: ClassName=Nhúng Member=R9
+Removed Member From Class: ClassName=Nhúng Member=R10
+Removed Member From Class: ClassName=Nhúng Member=U1
+Change Component Comment : Designator=R2 Old Comment=150 New Comment=470
+Change Component Comment : Designator=R7 Old Comment=150 New Comment=470
+Change Component Designator: OldDesignator=led source NewDesignator=led source1
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Added Component: Designator=C4(CN1)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=LED Pin=C4-2
+Added Pin To Net: NetName=HAND Pin=LoLin-1-D1
+Added Pin To Net: NetName=NetHD1_1 Pin=R2-1
+Added Pin To Net: NetName=LED Pin=R2-2
+Added Pin To Net: NetName=Netled water_1 Pin=R3-2
+Change Net Name : Old Net Name=Netled source_1 New Net Name=Netled source1_1
+Added Member To Class: ClassName=Nhúng Member=Component C4 103
+Added Room: Name=Nhúng

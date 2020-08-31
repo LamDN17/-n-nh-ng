@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=LED Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=led water1-2
+Removed Member From Class: ClassName=Nhúng Member=led water1
+Removed Member From Class: ClassName=Nhúng Member=R3
+Change Component Footprint: Designator=C4 Old Footprint=CN1 New Footprint=C3MM
+Change Component Comment : Designator=C4 Old Comment=103 New Comment=47u/16V
+Added Component: Designator=ledwater(LED-3)
+Added Pin To Net: NetName=LED Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=LED Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=ledwater-2
+Added Pin To Net: NetName=Netledwater_1 Pin=ledwater-1
+Added Pin To Net: NetName=Netledwater_1 Pin=R2-1
+Added Net: Name=Netledwater_1
+Added Member To Class: ClassName=Nhúng Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Nhúng Member=Component ledwater LED
+Added Room: Name=Nhúng

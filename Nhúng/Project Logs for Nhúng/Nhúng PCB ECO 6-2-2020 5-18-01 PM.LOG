@@ -1,0 +1,77 @@
+Added Component: Designator=C1(C3MM)
+Added Component: Designator=C2(CN1)
+Added Component: Designator=C3(CP1/2)
+Added Component: Designator=C4(CN1)
+Added Component: Designator=HD1(HED2)
+Added Component: Designator=HD2(HED2)
+Added Component: Designator=HD3(HED2)
+Added Component: Designator=IC1(QTO-220)
+Added Component: Designator=IC2(QTO-220)
+Added Component: Designator=JDC1(DC-IN)
+Added Component: Designator=JP1(jam3)
+Added Component: Designator=JP2(jam3)
+Added Component: Designator=led source1(LED-3)
+Added Component: Designator=led water1(LED-3)
+Added Component: Designator=LoLin-1(LoLin NodeMcu V3)
+Added Component: Designator=R1(R1/4W)
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=LED Pin=C4-2
+Added Pin To Net: NetName=NetHD1_1 Pin=HD1-1
+Added Pin To Net: NetName=5V Pin=HD1-2
+Added Pin To Net: NetName=GND Pin=HD2-1
+Added Pin To Net: NetName=5V Pin=HD2-2
+Added Pin To Net: NetName=GND Pin=HD3-1
+Added Pin To Net: NetName=12V Pin=HD3-2
+Added Pin To Net: NetName=12V Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=12V Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=5V Pin=IC2-3
+Added Pin To Net: NetName=12V Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=HAND Pin=JP1-2
+Added Pin To Net: NetName=5V Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=CONTROL Pin=JP2-2
+Added Pin To Net: NetName=5V Pin=JP2-3
+Added Pin To Net: NetName=Netled source1_1 Pin=led source1-1
+Added Pin To Net: NetName=GND Pin=led source1-2
+Added Pin To Net: NetName=Netled water1_1 Pin=led water1-1
+Added Pin To Net: NetName=GND Pin=led water1-2
+Added Pin To Net: NetName=HAND Pin=LoLin-1-D1
+Added Pin To Net: NetName=LED Pin=LoLin-1-D4
+Added Pin To Net: NetName=CONTROL Pin=LoLin-1-D7
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=5V Pin=LoLin-1-VIN
+Added Pin To Net: NetName=Netled source1_1 Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Member To Class: ClassName=Nhúng Member=Component C1 47u/16V
+Added Member To Class: ClassName=Nhúng Member=Component C2 103
+Added Member To Class: ClassName=Nhúng Member=Component C3 1000uF
+Added Member To Class: ClassName=Nhúng Member=Component C4 103
+Added Member To Class: ClassName=Nhúng Member=Component HD1 water
+Added Member To Class: ClassName=Nhúng Member=Component HD2 Header 2
+Added Member To Class: ClassName=Nhúng Member=Component HD3 Header 2
+Added Member To Class: ClassName=Nhúng Member=Component IC1 LM7805
+Added Member To Class: ClassName=Nhúng Member=Component IC2 LM7805
+Added Member To Class: ClassName=Nhúng Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Nhúng Member=Component JP1 CON3
+Added Member To Class: ClassName=Nhúng Member=Component JP2 CON3
+Added Member To Class: ClassName=Nhúng Member=Component led source1 LED
+Added Member To Class: ClassName=Nhúng Member=Component led water1 LED
+Added Member To Class: ClassName=Nhúng Member=Component LoLin-1 NodeMCU V1.0 ESP-12E_1
+Added Member To Class: ClassName=Nhúng Member=Component R1 Res1
+Added Room: Name=Nhúng

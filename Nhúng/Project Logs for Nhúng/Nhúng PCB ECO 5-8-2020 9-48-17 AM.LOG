@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CONTROL Pin=NodeMCU-1-D0
+Removed Pin From Net: NetName=WL Pin=NodeMCU-1-D1
+Removed Pin From Net: NetName=DECTECT Pin=NodeMCU-1-D2
+Removed Pin From Net: NetName=LED Pin=NodeMCU-1-D3
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=5V Pin=NodeMCU-1-VIN
+Added Component: Designator=LoLin-1(LoLin NodeMcu V3)
+Added Pin To Net: NetName=CONTROL Pin=LoLin-1-D0
+Added Pin To Net: NetName=WL Pin=LoLin-1-D1
+Added Pin To Net: NetName=DECTECT Pin=LoLin-1-D2
+Added Pin To Net: NetName=LED Pin=LoLin-1-D3
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=5V Pin=LoLin-1-VIN
+Added Member To Class: ClassName=Nhúng Member=Component IC1 LM7805
+Added Member To Class: ClassName=Nhúng Member=Component LoLin-1 NodeMCU V1.0 ESP-12E_1
+Added Member To Class: ClassName=Nhúng Member=Component R7 150
+Added Room: Name=Nhúng

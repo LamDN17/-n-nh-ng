@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=led water NewDesignator=led water1
+Change Net Name : Old Net Name=Netled water_1 New Net Name=Netled water1_1
+Added Member To Class: ClassName=Nhúng Member=Component HD1 water
+Added Member To Class: ClassName=Nhúng Member=Component R3 470
+Added Room: Name=Nhúng

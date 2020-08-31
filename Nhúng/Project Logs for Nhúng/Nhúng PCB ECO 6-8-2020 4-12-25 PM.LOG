@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=ledwater-2
+Removed Member From Class: ClassName=Nhúng Member=ledwater
+Added Component: Designator=led water1(LED-3)
+Added Pin To Net: NetName=GND Pin=led water1-2
+Added Pin To Net: NetName=Netled water1_1 Pin=led water1-1
+Added Pin To Net: NetName=Netled water1_1 Pin=R3-1
+Added Net: Name=Netled water1_1
+Added Member To Class: ClassName=Nhúng Member=Component led water1 LED
+Added Member To Class: ClassName=Nhúng Member=Component R2 150
